@@ -55,3 +55,6 @@ Data Analytics
 Artificial Intelligence in Healthcare
 to contribute to data-driven healthcare systems.
 
+connect:
+
+https://www.linkedin.com/in/pardon-manjera-99502990/
