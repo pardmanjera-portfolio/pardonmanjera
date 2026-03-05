@@ -23,18 +23,21 @@ ________________________________________
 Skills
 
 Healthcare
+
 •	Radiography
 •	CT Imaging
 •	Clinical Audit
 •	Imaging Referral Guidelines
 
 Data Analytics
+
 •	Python
 •	Pandas
 •	Data Visualization
 •	Clinical Data Analysis
 
 Tools
+
 •	Python
 •	Excel
 •	Jupyter Notebook
